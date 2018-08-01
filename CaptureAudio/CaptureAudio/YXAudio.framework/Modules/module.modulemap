@@ -1,0 +1,6 @@
+framework module YXAudio {
+  umbrella header "YXAudio.h"
+
+  export *
+  module * { export * }
+}
